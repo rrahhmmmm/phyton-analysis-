@@ -1,0 +1,151 @@
+respondent_id,age,favorite_genre,watch_time,platform
+1,20,Horror,Evening,YouTube
+2,30,Documentary,Evening,Disney+
+3,25,Romance,Afternoon,Instagram
+4,40,Drama,Evening,Netflix
+5,18,Horror,Morning,TV
+6,45,Reality Show,Night,Netflix
+7,36,Romance,Afternoon,TikTok
+8,34,Comedy,Morning,TV
+9,50,Horror,Night,Instagram
+10,28,Romance,Evening,Disney+
+11,32,Romance,Afternoon,TV
+12,29,Reality Show,Night,YouTube
+13,54,Reality Show,Morning,YouTube
+14,55,Reality Show,Afternoon,TV
+15,32,Comedy,Evening,TikTok
+16,38,Romance,Afternoon,TikTok
+17,25,Documentary,Afternoon,YouTube
+18,60,Horror,Evening,Netflix
+19,25,Comedy,Afternoon,Disney+
+20,25,Romance,Night,Instagram
+21,32,Reality Show,Night,YouTube
+22,21,Action,Night,Disney+
+23,47,Action,Afternoon,Disney+
+24,27,Action,Morning,TV
+25,48,Romance,Night,TV
+26,45,Action,Afternoon,Disney+
+27,39,Drama,Night,Disney+
+28,56,Documentary,Night,Disney+
+29,20,Reality Show,Night,Disney+
+30,57,Action,Afternoon,Netflix
+31,25,Reality Show,Morning,Disney+
+32,59,Documentary,Morning,TikTok
+33,17,Comedy,Afternoon,Netflix
+34,55,Horror,Morning,Disney+
+35,35,Action,Evening,YouTube
+36,15,Romance,Night,YouTube
+37,52,Reality Show,Morning,TikTok
+38,44,Documentary,Evening,TV
+39,45,Documentary,Afternoon,TV
+40,51,Horror,Morning,Instagram
+41,53,Horror,Afternoon,Instagram
+42,39,Romance,Afternoon,Instagram
+43,43,Romance,Evening,Instagram
+44,53,Action,Night,TikTok
+45,15,Romance,Morning,TV
+46,42,Horror,Morning,Disney+
+47,38,Horror,Evening,YouTube
+48,25,Documentary,Afternoon,Disney+
+49,30,Reality Show,Afternoon,Netflix
+50,38,Drama,Morning,YouTube
+51,44,Reality Show,Afternoon,TV
+52,47,Reality Show,Morning,TV
+53,22,Action,Afternoon,Instagram
+54,34,Action,Morning,TV
+55,24,Documentary,Afternoon,Instagram
+56,45,Horror,Morning,Instagram
+57,42,Reality Show,Morning,Instagram
+58,37,Drama,Afternoon,Netflix
+59,16,Romance,Afternoon,Netflix
+60,47,Drama,Morning,TikTok
+61,58,Horror,Night,TV
+62,18,Romance,Night,YouTube
+63,26,Comedy,Morning,TikTok
+64,53,Romance,Morning,TikTok
+65,59,Romance,Afternoon,Instagram
+66,32,Romance,Morning,Disney+
+67,30,Drama,Afternoon,YouTube
+68,49,Reality Show,Morning,TikTok
+69,27,Drama,Evening,TV
+70,60,Romance,Morning,Instagram
+71,33,Horror,Night,YouTube
+72,16,Comedy,Night,Netflix
+73,37,Reality Show,Morning,Disney+
+74,18,Drama,Night,Instagram
+75,27,Drama,Morning,TV
+76,30,Horror,Night,Instagram
+77,51,Action,Evening,TikTok
+78,32,Horror,Evening,TikTok
+79,46,Drama,Morning,YouTube
+80,17,Action,Night,Netflix
+81,60,Comedy,Night,Instagram
+82,55,Horror,Evening,Disney+
+83,35,Romance,Night,Disney+
+84,28,Horror,Night,Instagram
+85,25,Documentary,Morning,Netflix
+86,27,Reality Show,Night,Instagram
+87,45,Documentary,Morning,TikTok
+88,52,Reality Show,Night,Disney+
+89,33,Documentary,Morning,TikTok
+90,27,Drama,Night,Netflix
+91,57,Drama,Night,TV
+92,38,Action,Morning,TV
+93,59,Horror,Morning,Disney+
+94,16,Comedy,Evening,Disney+
+95,48,Horror,Evening,Disney+
+96,24,Reality Show,Morning,TikTok
+97,41,Drama,Afternoon,TikTok
+98,45,Romance,Evening,TikTok
+99,47,Drama,Afternoon,Disney+
+100,37,Action,Night,Disney+
+101,45,Reality Show,Evening,Instagram
+102,39,Action,Afternoon,TV
+103,45,Documentary,Afternoon,TV
+104,26,Reality Show,Morning,TikTok
+105,31,Comedy,Morning,Disney+
+106,44,Action,Evening,TikTok
+107,43,Comedy,Night,TikTok
+108,37,Reality Show,Night,TikTok
+109,49,Comedy,Afternoon,Netflix
+110,46,Comedy,Evening,YouTube
+111,31,Action,Morning,Disney+
+112,27,Action,Morning,Netflix
+113,20,Romance,Morning,Instagram
+114,20,Reality Show,Afternoon,YouTube
+115,41,Horror,Night,Instagram
+116,43,Drama,Night,TV
+117,19,Drama,Afternoon,Instagram
+118,49,Action,Night,Netflix
+119,55,Documentary,Night,Instagram
+120,42,Documentary,Morning,TikTok
+121,41,Drama,Morning,TikTok
+122,27,Drama,Evening,Disney+
+123,26,Drama,Night,YouTube
+124,56,Action,Afternoon,TV
+125,28,Action,Night,Instagram
+126,20,Romance,Night,YouTube
+127,36,Romance,Night,YouTube
+128,48,Documentary,Evening,YouTube
+129,55,Comedy,Afternoon,Disney+
+130,56,Comedy,Afternoon,TikTok
+131,42,Romance,Evening,TV
+132,36,Documentary,Afternoon,Disney+
+133,22,Drama,Morning,Instagram
+134,55,Documentary,Morning,TikTok
+135,55,Comedy,Night,TikTok
+136,19,Comedy,Afternoon,YouTube
+137,25,Romance,Afternoon,TV
+138,56,Drama,Evening,Instagram
+139,42,Horror,Afternoon,TikTok
+140,56,Comedy,Afternoon,Disney+
+141,48,Romance,Morning,TV
+142,45,Action,Night,Instagram
+143,17,Drama,Afternoon,Disney+
+144,28,Comedy,Afternoon,Netflix
+145,22,Romance,Evening,Disney+
+146,17,Horror,Evening,Netflix
+147,58,Romance,Morning,YouTube
+148,41,Reality Show,Night,TV
+149,44,Documentary,Morning,Instagram
+150,48,Drama,Night,Netflix
