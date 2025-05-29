@@ -1,7 +1,7 @@
 # phyton-analysis-
 Practicing data analysis with Python based on skills I’ve learned.
 
-# 📊 Audience Preferences Dashboard
+#  Audience Preferences Dashboard
 
 This mini-project is a Streamlit-based dashboard built to visualize audience survey data.
 
